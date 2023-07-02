@@ -16,7 +16,7 @@ Navigate to the directory where the source code file is saved.
 
 Run the following command to compile the code:
 
-gcc fibonacci_iter.c -o fibonacci_iter.exe
+gcc fibonacci_iterative.c -o fibonacci_iter.exe
 This will generate an executable file named fibonacci_iter (or fibonacci_iter.exe on Windows).
 
 gcc fibonacci_memoization.c -o fibonacci_memo.exe
